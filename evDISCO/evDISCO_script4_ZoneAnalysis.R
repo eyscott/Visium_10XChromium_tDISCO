@@ -10,7 +10,7 @@ D10_Norm_geneMat_Fade<-D10_Norm_geneMat[ ,Fade]
 lncRNA<-c('Break','Gm44432','Gm44039','Gm36787','Gm29946','Gm31763','Gm49953','Gm49076','Gm32172','4930519H02Rik','1110002E22Rik')
 iv<-c('Break1','Chst3',"Gan",'Tprkb','Acap3','Gnai1','Klf13')
 i<-c('Break2','Hpcal4','Basp1','Frrs1l','Penk','Nudcd3','Furin','Taok3','Dnajb2','Dennd5a','Egln2','Cfl1','B4galt6',
-          'Ntrk2','Ndst1','Mapk1','Mapk10','Ccni','Timm17a','Bscl2','Spred1','Ubr4','Ywhaq','Rap1b','Basp1')
+          'Ntrk2','Ndst1','Mapk1','Mapk10','Ccni','Timm17a','Bscl2','Spred1','Ubr4','Ywhaq','Rap1b')
 ii<-c('Break3','Fam102a','Cant1','Exoc3','Ice1','Rcor1','Mphosph9','Siah1a','Senp8','Gigyf2','Tmem119',
               'Zfp664','Zfp26','Olig2','Asxl1','Vcp','Rubcn','Toe1')
 core<- c('Break8','Fkbp11','Sdhb','Gltp','Ltc4s','Dffb','Gm20661','Zfp799')
