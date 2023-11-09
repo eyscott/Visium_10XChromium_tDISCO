@@ -7,4 +7,4 @@ These scripts detail out analysis of each dataset separately as well as the inte
 3) tDISCO: scRNA-seq analysis on Day 10 post-stroke mice (n=3), selected GFAP+ astrocytes at defined distances from stroke injury
 
 ### Publication:
-Integrating single-cell and spatially resolved transcriptomic strategies to survey astrocytes in response to stroke. Scott EY, Safarian N, Ali S, Tockovska T, Dryden M, Lozano Casasbuenas D, Peng J, Daniele E, Tripathy S, Yuzwa S, Wheeler A, Faiz M. Submitted.
+Integrating single-cell and spatially resolved transcriptomic strategies to survey astrocytes in response to stroke. Scott EY, Safarian N, Lozano Casasbuenas D, Tockovska T, Dryden M, Ali S, Peng J, Daniele E, Tripathy S, Yuzwa S, Wheeler A, Faiz M. Submitted.
