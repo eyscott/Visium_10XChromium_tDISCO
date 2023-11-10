@@ -10,3 +10,4 @@ These scripts detail out analysis of each dataset separately as well as the inte
 Integrating single-cell and spatially resolved transcriptomic strategies to survey astrocytes in response to stroke. Scott EY, Safarian N, Lozano Casasbuenas D, Tockovska T, Dryden M, Ali S, Peng J, Daniele E, Tripathy S, Yuzwa S, Wheeler A, Faiz M. Submitted.
 
 MiSeq scripts for running tDISCO sequencing can be found [here](https://de.cyverse.org/data/ds/iplant/home/eyscott/MiseqScripts?type=folder&resourceId=8691cac2-7f59-11ee-a8fe-90e2ba675364)
+This Miseq script permits 3 forwards reads, where R1 = R1 (36 bp), R2 = IR1a (8 bp), R3 = IR1b (12 bp), and R4 = R2 (123 bp) (total=179 bp)  
