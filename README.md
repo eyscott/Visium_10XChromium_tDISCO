@@ -7,7 +7,7 @@ These scripts detail out analysis of each dataset separately as well as the inte
 3) tDISCO: scRNA-seq analysis on Day 10 post-stroke mice (n=3), selected GFAP+ astrocytes at defined distances from stroke injury
 
 ### Publication:
-Integrating single-cell and spatially resolved transcriptomic strategies to survey astrocytes in response to stroke. Scott EY, Safarian N, Lozano Casasbuenas D, Tockovska T, Dryden M, Ali S, Peng J, Daniele E, Tripathy S, Yuzwa S, Wheeler A, Faiz M. Accepted, Nature comm.
+Scott, E.Y., Safarian, N., Casasbuenas, D.L. et al. Integrating single-cell and spatially resolved transcriptomic strategies to survey the astrocyte response to stroke in male mice. Nat Commun 15, 1584 (2024). https://doi.org/10.1038/s41467-024-45821-y
 
 MiSeq scripts for running tDISCO sequencing can be found [here](https://data.cyverse.org/dav-anon/iplant/home/eyscott/MiseqScripts/MSQv3_3FWDReads.zip)
 -This Miseq script permits 3 forwards reads, where R1 = R1 (36 bp), R2 = IR1a (8 bp), R3 = IR1b (12 bp), and R4 = R2 (123 bp) (total=179 bp), with the protocol [here](https://data.cyverse.org/dav-anon/iplant/home/eyscott/MiseqScripts/Protocol_for_implementing_scripts.docx)  
